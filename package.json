@@ -1,13 +1,45 @@
 {
-  "name": "react-native-same-toast",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-  },
   "author": {
     "name": "TS",
-    "email": ""
+    "email": "",
+    "url": ""
   },
-  "license": "MIT"
+  "bugs": {
+    "url": "https://github.com/tsfosnz/react-native-same-toast/issues"
+  },
+  "dependencies": { },
+  "description": "A simple react native same toast support both Android and iOS",
+  "devDependencies": {},
+  "directories": {},
+  "homepage": "https://github.com/aksonov/react-native-router-flux#readme",
+  "keywords": [
+    "react-native",
+    "toast",
+    "react-components",
+    "react-component",
+    "ios",
+    "android",
+    "swipable-list",
+    "swipeable-list",
+    "list-row",
+    "list"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "TS",
+      "email": ""
+    }
+  ],
+  "name": "react-native-same-toast",
+  "optionalDependencies": {},
+  "readme": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsfosnz/react-native-same-toast.git"
+  },
+  "scripts": {
+  },
+  "version": "1.0.0"
 }

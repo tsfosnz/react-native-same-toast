@@ -8,7 +8,7 @@ The iOS module code coming from:
 
 https://github.com/scalessec/Toast
 
-The Android using AndroidToast from react native.
+The Android using ToastAndroid from react native.
 
 ## Usage
 
@@ -19,7 +19,7 @@ npm install react-native-same-toast
 react-native link react-native-same-toast
 ```
 
-It had the same API as AndroidToast on react native docs.
+It had the same API as ToastAndroid on react native docs.
 
 ```
 import Toast from 'react-native-same-toast';
